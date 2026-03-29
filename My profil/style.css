@@ -1,0 +1,159 @@
+
+
+
+div {
+	background-color: #C59F96;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 50px;
+	text-align: center;
+
+
+}
+
+.card-design {
+	margin: 50px auto;
+	max-width: 900px;
+	flex-grow: 0px;
+	padding: 60px;
+
+}
+
+#profile {
+    display: block;
+    margin: 20px auto;  /* ← c'est ça qui centre vraiment une image */
+    border-radius: 3%;
+    width: 300px;
+    height: 300px;
+}
+
+body { 
+ background-color: #ECE2D0;
+ color: light sandybrown;
+ font-family: times;
+}
+
+
+h1 { 
+    color: #5B3A32;
+	font-family: helvetica;
+    font-weight:100 ;
+    letter-spacing: 10px;
+    font size:60px;
+    }
+	
+
+	
+h2 { 
+	color: #5C4033;;
+	font-family: helvetica;
+	font-size: 24px;
+	font-weight: lighter;
+	}
+
+	a { 
+	  text-decoration: none;
+	  color:brown;
+	  }
+
+		a:hover {
+			color: #8b4513
+			}
+
+
+.container { 
+		width: 700px;
+		margin: 40px auto;
+	       }
+
+
+.card-white  { 
+	background-color: #5C4033;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle  { 
+	border-radius: 50%;
+	width:300px;
+}
+#profile{
+	border-radius: 3%;
+	width: 300px;
+	height: 300px;
+
+}
+#first p{
+	padding: 20px;
+}
+
+.btn-blue {
+	background-color: C59F96;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	}
+
+
+.list-inline {
+
+	list-style: none;
+	padding-left: 0;
+}
+
+.list-inline li { 
+	display: inline;
+	padding: 10px;
+
+}
+
+
+.list-inline li {
+	font size: 50px;
+	color: rgb(230, 230, 230);
+}	
+
+.list-inline i:hover {
+ font size: 50px
+ color: rgb(230,230,230)
+}
+
+
+@media (max-width: 500px)   {
+	.container  {
+		width: 400px;
+		}
+
+		
+
+@media (max-width: 500px) {
+.container {
+    width:400px;
+
+}
+
+}
+
+.card-design {
+	margin: 0px auto;
+	max-width: 900px;
+	flex-grow: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
